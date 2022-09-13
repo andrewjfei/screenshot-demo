@@ -15,6 +15,7 @@
     </properties>
 
     <dependencies>
+        <!--  JNI (Java Native Interface) Key Strokes  -->
         <dependency>
             <groupId>com.github.kwhat</groupId>
             <artifactId>jnativehook</artifactId>
